@@ -66,6 +66,7 @@ it manages the control of execution of the program, by displaying user to choose
 operation which he wants to perform on the given database.
 
 EMPLOYEE INFORMATION:
+
 An employee has usually these details on which this software works on-
 Name of Employee, Position of Employee in Company, Qualifications of Employee,
 Certifications( if any) of Employees, Employee ID, Programming Languages known.
