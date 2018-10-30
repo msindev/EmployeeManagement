@@ -37,7 +37,7 @@ returns that character to a char type variable, and the value which is typed by 
 displayed on the screen. Like getch() function, getche() function also does not wait for the
 user to press Enter key after entering a character. The entered character is automatically used.NOTE- The employee database where information about all the employees will be stored is a
 binary file, with name “employeeRecord.txt”. The program has been designed in such a
-manner that it uses this file to work with all its functions. The software also analyzes and
+manner that it uses the same file to work with all its functions. The software also analyzes and
 checks if the file is present or not, and prompts the user for creating Employee database, if it
 does not exists already.
 
@@ -63,7 +63,7 @@ found, the function displays the information about that employee to the user.
 int main(void) – This function is the driving function of the program. The execution of the
 software begins from this function, and it contains all the information about the database, and
 it manages the control of execution of the program, by displaying user to choose what
-operation which he wants to perform on the given database.
+operation which he/she wants to perform on the given database.
 
 EMPLOYEE INFORMATION:
 
